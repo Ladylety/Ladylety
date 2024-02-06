@@ -1,6 +1,6 @@
 ## **HI, WELCOME**
 
-![aboutme](https://ibb.co/8mhGsrH)
+![aboutme](https://github.com/Ladylety/Ladylety/blob/main/Read%20me.png)
 
 Hello! 👋 My name is Letícia Maria. I'm From Brazil and actually I'm taking Information Systems on IFAL.
 
